@@ -1,0 +1,15 @@
+SMS_alert_number: '48602642402'
+SMS_alerting: true
+alert_mail_address: radoslaw.skonieczny@gmail.com
+app_activated_license: true
+app_endpoint: https://endpointsql.iping.pl/app_exe
+app_guid: ecd770f9-a084-48a5-8734-22c9fbcd751b
+client_description: Grodzisk Mazowiecki
+customer: DEMO1
+email: radoslaw.skonieczny@gmail.com
+guid: 9672ad60-2ca6-4099-ae73-714e8a251e15
+license: Tue, 31 Dec 2024 00:00:00 GMT
+ping_endpoint: https://endpointsql.iping.pl
+ping_repeat: 5
+repeat_count: 200
+repeat_delay: 3

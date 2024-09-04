@@ -1,0 +1,4 @@
+#host           0=icmp      description         custom_description
+1.1.1.1         0           DNS                 Cloudflare
+IPing.pl        443         IPing               Monitoring
+8.8.8.8         0           DNS                 google
